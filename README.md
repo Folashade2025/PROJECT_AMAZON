@@ -53,23 +53,28 @@ This is where we include some basics lines of code or queries or even some of th
   A small group of product or products belong to the other categories.
 
 3. Evaluations for each category
-    There were more reviews in categories with fewer goods than would be predicted given their quantity.
+   There were more reviews in categories with fewer goods than would be predicted given their quantity.
 
-5. High Ratings ≠ High Visibility
-   Some products with strong ratings had very few reviews, suggesting they’re good but not well-promoted.
+4.  Highest average ratings - The three products that has the highest reviews belong to the computer& Accessories category.
 
-6. Categories Differ in Discount Strategy
-   Categories like Clothing and Electronics showed the highest average discounts — possibly to stay competitive.
+5.  Average actual price vs the discounted price:
+    Most products have discounted price that commensate well with their actual price except for those in Toys & Games category
 
-7. Many Products Have <1,000 Reviews
-   A large number of products have not yet gained visibility, showing room for growth or promotion.
+6. 1360 products have discounts of 50% or more.
+
+7. Distribution of product ratings
+   Product rating across all categories ranges between 2.0 and 5.0.
 
 8. Products Priced ₹200–₹500 Dominate
    Most products fall in the mid-price range, indicating this is a sweet spot for buyers on Amazon.
+   
+10. Many Products Have <1,000 Reviews
+   A large number of products have not yet gained visibility, showing room for growth or promotion.
 
-9. Top Products Have Both High Ratings & Review Counts
+11. 
+12. Top Products Have Both High Ratings & Review Counts
    Products that rank at the top in both ratings and review count tend to also have high potential revenue, making them key drivers of marketplace success.
 
-10. High Discounts Often Correlate with Lower Ratings
+13. High Discounts Often Correlate with Lower Ratings
    Some highly discounted products had average or below-average ratings, possibly due to quality concerns or clearance strategies
 
