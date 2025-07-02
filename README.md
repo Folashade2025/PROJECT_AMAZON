@@ -15,7 +15,7 @@ This project is a thorough Amazon Product Analytics Dashboard created in Microso
 ### Data Source: 
 The collection includes details about categories, prices, discounts, ratings, and reviews that were scraped from Amazon product pages.
 ### Tools Used
-- Microsoft Excel [Download Here](https://eu.docworkspace.com/d/sIFPBu4e1Adf9hsMG?sa=601.1037)
+- Microsoft Excel [https://1drv.ms/x/c/0df91a25752819a0/EYZuco6LDOdPmaVpFYICn-kBwDBoUzTLX_byil-F8jzLYg?e=vZouIa&nav=MTVfe0NFNjVENDA0LUJENkEtNEVEMi04MEUyLUU4QTk1REU2Q0Y3RH0]
   1. For Data Cleaning
   2. For Analysis
   3. For Data Visualisation
@@ -25,3 +25,14 @@ In the initial phase of the Data Cleaning and prepations, we perform the followi
 1. Data loading and Inspection
 2. Handling missing variables
 3. Data Cleaning and formatting
+---
+### Exploratory Data Analysis
+EDA involved the exploring of the Data to answer some questions about the Data such as;
+- What is the average discount percentage by product category?
+- How many products are listed under each category?
+- What is the total number of reviews per category?
+- Which products have the highest average ratings?
+---
+### Data Analysis
+This is where we include some basics lines of code or queries or even some of the DAX expressions used during your analysis
+---
