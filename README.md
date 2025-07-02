@@ -1,5 +1,5 @@
-#   PROJECT_AMAZON 
-##  PROJECT TITLE 1:Amazon 
+#   PROJECT_RetailTech Insights
+##  PROJECT TITLE 1: RetailTech
 ---
 [Project Overview](#project-overview)
 [DATA SOURCES](#data-sources)
@@ -36,4 +36,40 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 ### Data Analysis
 This is where we include some basics lines of code or queries or even some of the DAX expressions used during your analysis
 ---
-https://github.com/user-attachments/assets/ae86af6a-47e9-486e-bcf0-28a3c8180efa
+![Scattered dot 1](https://github.com/user-attachments/assets/8c1f133e-41ee-4f99-9f63-34cd8c04c53b)
+![Line graph 1](https://github.com/user-attachments/assets/10c9a35e-95e6-4e39-b4db-f25ab75f4d20)
+![Bar chart 5](https://github.com/user-attachments/assets/edc057e7-bc42-47f1-ab79-1e0524d58355)
+![Bar chart 4](https://github.com/user-attachments/assets/e9790b39-b314-4311-83d0-682f7314cfa6)
+![Bar chart 3](https://github.com/user-attachments/assets/240ffeb9-6eac-40ea-9e7f-120b606af38b)
+![Bar chart 2](https://github.com/user-attachments/assets/01d574e6-95f6-4db4-9cec-575a5b60dfa9)
+![Bar chart 1](https://github.com/user-attachments/assets/a8c143e7-ac2b-4e35-a1d6-0bc004c0421a)
+---
+### Final Report
+### Summary
+1. Average Discount can be made High
+   Most products have diccounts less than 60% for all product categories
+
+2. Majority of the Products belong to 3 main categories; computers & Accessories, electronics and home & kitchen
+  A small group of product or products belong to the other categories.
+
+3. Evaluations for each category
+    There were more reviews in categories with fewer goods than would be predicted given their quantity.
+
+5. High Ratings ≠ High Visibility
+   Some products with strong ratings had very few reviews, suggesting they’re good but not well-promoted.
+
+6. Categories Differ in Discount Strategy
+   Categories like Clothing and Electronics showed the highest average discounts — possibly to stay competitive.
+
+7. Many Products Have <1,000 Reviews
+   A large number of products have not yet gained visibility, showing room for growth or promotion.
+
+8. Products Priced ₹200–₹500 Dominate
+   Most products fall in the mid-price range, indicating this is a sweet spot for buyers on Amazon.
+
+9. Top Products Have Both High Ratings & Review Counts
+   Products that rank at the top in both ratings and review count tend to also have high potential revenue, making them key drivers of marketplace success.
+
+10. High Discounts Often Correlate with Lower Ratings
+   Some highly discounted products had average or below-average ratings, possibly due to quality concerns or clearance strategies
+
