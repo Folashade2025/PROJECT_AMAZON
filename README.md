@@ -68,13 +68,13 @@ This is where we include some basics lines of code or queries or even some of th
 8. Products Priced ₹200–₹500 Dominate
    Most products fall in the mid-price range, indicating this is a sweet spot for buyers on Amazon.
    
-10. Many Products Have <1,000 Reviews
-   A large number of products have not yet gained visibility, showing room for growth or promotion.
+9. About 606 products have fewer than <1,000 Reviews.
 
-11. 
-12. Top Products Have Both High Ratings & Review Counts
+10. The electronics is the category with the highest discuonts (3,138,057).
+    
+11. Top Products Have Both High Ratings & Review Counts
    Products that rank at the top in both ratings and review count tend to also have high potential revenue, making them key drivers of marketplace success.
 
-13. High Discounts Often Correlate with Lower Ratings
+12. High Discounts Often Correlate with Lower Ratings
    Some highly discounted products had average or below-average ratings, possibly due to quality concerns or clearance strategies
 
