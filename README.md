@@ -2,12 +2,19 @@
 ##  PROJECT TITLE 1: RetailTech
 ---
 [Project Overview](#project-overview)
+
 [DATA SOURCES](#data-sources)
+
 [Tools Used](#tools-used)
+
 [Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
 [Exploratory Data Analysis](#exploratory-data-analysis)
+
 [Data Analysis](#data-analysis)
+
 [Final Report](#final-report)
+
 ---
 ### Project Overview: 
 This project is a thorough Amazon Product Analytics Dashboard created in Microsoft Excel with the goal of turning unprocessed e-commerce data into useful insights.  We created a dynamic dashboard that assists users in identifying patterns in pricing, customer interaction, and product performance using a dataset of 1,465 Amazon goods, which includes categories, prices, discounts, ratings, and reviews.
