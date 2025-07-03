@@ -57,7 +57,7 @@ This is where we include some basics lines of code or queries or even some of th
 
 4.  Highest average ratings - The three products that has the highest reviews belong to the computer& Accessories category.
 
-5.  Average actual price vs the discounted price:
+5.  Average actual price vs the discounted price. 
     Most products have discounted price that commensate well with their actual price except for those in Toys & Games category
 
 6. 1360 products have discounts of 50% or more.
